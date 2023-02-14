@@ -1,0 +1,24 @@
+section {
+    background-color: blanchedalmond;
+    margin: 20px;
+    padding: 20px;
+}
+#seccion1{
+    color: cornflowerblue;
+}
+.all-browsers{
+    margin: 0;
+    padding: 5px;
+    background-color: darkgoldenrod;
+}
+.browser{
+    background-color: rgb(166, 90, 90);
+}
+aside {
+    width: 30%;
+    height: 300px;
+    padding: 15px;
+    float: right;
+    font-style: italic;
+    background-color: aquamarine;
+}
