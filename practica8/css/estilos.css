@@ -1,0 +1,25 @@
+:root{
+    --azul: #23c651;
+    --rojo: #b96c6c;
+   }
+    
+body {
+    background-color: var(--azul);
+}
+
+h2 {
+    border-bottom: 2px solid var(--azul);
+}
+    
+.container {
+    color: var(--azul);;
+    background-color: var(--rojo);;
+    padding: 15px;
+}
+    
+button {
+    background-color: var(--rojo);
+    color: var(--azul);
+    border: 1px solid var(--azul);
+    padding: 5px;
+}
